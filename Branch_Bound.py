@@ -1,8 +1,8 @@
 from collections import defaultdict
 from functools import reduce
 
-FILE_IN = 'input_BranchBound.txt'
-FILE_OUT = 'output_BranchBound.txt'
+FILE_IN = 'input/input_BranchBound.txt'
+FILE_OUT = 'output/output_BranchBound.txt'
 TABLE_WIDTH = 155
 
 start = None

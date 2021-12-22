@@ -1,8 +1,8 @@
 from collections import defaultdict
 from functools import reduce
 
-FILE_IN = 'input_BFS_HCS.txt'
-FILE_OUT = 'output_BFS_HCS.txt'
+FILE_IN = 'input/input_BFS_HCS.txt'
+FILE_OUT = 'output/output_BFS_HCS.txt'
 TABLE_WIDTH1 = 80
 TABLE_WIDTH = 93
 

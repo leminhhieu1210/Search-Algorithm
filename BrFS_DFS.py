@@ -1,7 +1,7 @@
 from collections import defaultdict
 
-FILE_IN = 'input_BrFS_DFS.txt'
-FILE_OUT = 'output_BrFS_DFS.txt'
+FILE_IN = 'input/input_BrFS_DFS.txt'
+FILE_OUT = 'output/output_BrFS_DFS.txt'
 TABLE_WIDTH = 70
 
 start, end = None, None

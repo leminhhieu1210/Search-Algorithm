@@ -1,6 +1,6 @@
 TABLE_WIDTH = 117
-FILE_IN = 'input_Astar.txt'
-FILE_OUT = 'output_Astar.txt'
+FILE_IN = 'input/input_Astar.txt'
+FILE_OUT = 'output/output_Astar.txt'
 
 class Graph:
     def __init__(self, graph_dict=None, directed=True):
